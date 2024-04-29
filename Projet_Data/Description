@@ -1,0 +1,14 @@
+Ce projet se concentre sur l'analyse et le traitement de bases de données d'assurance. 
+L'objectif principal est de préparer et de nettoyer les données en détectant les valeurs incohérentes, en traitant les valeurs manquantes et en supprimant les doublons. 
+Une fois les données préparées, nous explorerons différentes techniques d'analyse et de modélisation pour en extraire des informations précieuses.
+
+Le processus comprendra les étapes suivantes :
+
+Prétraitement des Données : Identification et traitement des valeurs incohérentes, des valeurs manquantes et des doublons dans les bases de données d'assurance.
+Analyse Exploratoire : Utilisation de techniques telles que l'Analyse en Composantes Principales (ACP) pour explorer la structure des données et identifier les variables significatives.
+Modélisation : Application de différents modèles, à la fois paramétriques et non paramétriques, pour prédire des variables d'intérêt telles que les risques d'assurance ou les tendances de réclamation. 
+Les modèles seront testés et évalués en fonction de leur robustesse et de leur capacité à capturer la complexité des données.
+Choix du Modèle et Fine-Tuning : Sélection du modèle le plus approprié en fonction des performances observées et du contexte du domaine d'assurance. 
+Un processus de fine-tuning sera ensuite entrepris pour optimiser les performances du modèle retenu.
+Ce projet fournira une compréhension approfondie des défis spécifiques liés à l'analyse des données d'assurance, ainsi que des compétences pratiques dans la préparation des données, 
+l'analyse exploratoire et la modélisation statistique.
