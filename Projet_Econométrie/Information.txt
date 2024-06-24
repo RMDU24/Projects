@@ -1,0 +1,7 @@
+Mon projet, intitulé 'Analyse des accidents de circulation', consiste en un code Python qui vise à analyser 
+les données relatives aux accidents de la route. Le code est supérieur a 25 MB et peut être consulté et téléchargé à l'aide du lien suivant :
+[https://drive.google.com/file/d/150QGTFs0y0Q57-yUdk1GjuVjrX1Tnm3m/view?usp=drive_link].Dans ce projet, j'ai exploré les données des accidents routiers de 2021
+pour comprendre les facteurs de risque et les tendances en matière de sécurité routière. L'objectif était d'identifier les principales causes d'accidents, 
+les usagers les plus à risque, les types de véhicules souvent impliqués et les conditions propices aux accidents.
+En utilisant des techniques d'analyse de données et des outils de visualisation, j'ai examiné la structure et la distribution des données, 
+identifié des tendances et des corrélations significatives. Les insights obtenus devraient contribuer à améliorer les politiques de sécurité routière et les programmes de prévention.
